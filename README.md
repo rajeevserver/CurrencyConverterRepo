@@ -35,3 +35,9 @@ Returns 400 Bad Request for:
 
 - Supports automatic reload of exchange rates when the JSON file changes.
 
+## Running the API
+
+Clone the repository:
+https://github.com/rajeevserver/CurrencyConverterRepo.git
+
+Build and Run the Solution
